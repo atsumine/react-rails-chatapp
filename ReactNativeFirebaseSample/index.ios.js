@@ -4,6 +4,8 @@
  * @flow
  */
 
+const Firebase = require('firebase');
+
 import React, { Component } from 'react';
 import {
   AppRegistry,
